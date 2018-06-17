@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int calificacion=0, suma=0, n=0;
+    float calificacion=0, suma=0, n=0;
     string materias[5]={"matematicas", "geografia", "biologia", "ciencias","ingles"};
 
     while(n<5){
