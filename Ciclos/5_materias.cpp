@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int calificacion=0, suma=0, n=1;
+    float calificacion=0, suma=0, n=1;
 
     while(n<=5){
         cout << "Calificacion de la materia " <<n <<": ";
